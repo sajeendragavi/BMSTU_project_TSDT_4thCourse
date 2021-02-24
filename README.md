@@ -1,6 +1,6 @@
 # BMSTU_project_TSDT_4thCourse
 
-**Team Software Development Technology project**
+**Team Software Development Technology project(TSDT project)**
 
 Develop a recommendatory system for choosing an educational trajectory based on massive online courses (MOOC) for IT and digital professions.
 
