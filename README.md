@@ -1,4 +1,6 @@
 # BMSTU_project_TSDT_4thCourse
+**#Team Software Development Technology project **
+
 Develop a recommendatory system for choosing an educational trajectory based on massive online courses (MOOC) for IT and digital professions.
 
 This problem can be resolved by the resulting application which acts as a recommendation system which suggests educational courses to users, from various MOOC platforms based on skills necessary for the user’s choice of career path in IT and digital sector. The goal here is to facilitate users with a resource where they can get information about IT jobs, its skills and relevant courses all in one place.
