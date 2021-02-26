@@ -6,7 +6,7 @@ Develop a recommendatory system for choosing an educational trajectory based on 
 
 This problem can be resolved by the resulting application which acts as a recommendation system which suggests educational courses to users, from various MOOC platforms based on skills necessary for the user’s choice of career path in IT and digital sector. The goal here is to facilitate users with a resource where they can get information about IT jobs, its skills and relevant courses all in one place.
 
-To achieve this goal, the following tasks were involved:
+To achieve this goal, the following tasks are involved:
 1. Studying modern software development methodologies and technologies.
 2. Researching for existing analogies which resemble this application.
 3. Gathering resources for obtaining relevant information useful in building up the application.
