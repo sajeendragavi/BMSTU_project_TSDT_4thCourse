@@ -1,6 +1,6 @@
 const { db } = require('../util/admin');
 
-//get course info from Database
+//get course info from Database   
 exports.getAllCourses = (req, res) => {
     db
         .collection('courses')
@@ -26,7 +26,6 @@ exports.getAllCourses = (req, res) => {
         })
         .catch((err) => console.error(err));
 }
-
 
 //add courses to Database
 exports.addCourses = (req, res) => {
