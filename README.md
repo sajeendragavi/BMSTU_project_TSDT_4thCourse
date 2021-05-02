@@ -1,6 +1,6 @@
 # BMSTU_project_TSDT_4thCourse
 
-**Team Software Development Technology project(TSDT project)**
+** Team Software Development Technology project(TSDT project)**
 
 Develop a recommendatory system for choosing an educational trajectory based on massive online courses (MOOC) for IT and digital professions.
 
@@ -33,3 +33,5 @@ Client side of the application
 1. React-
 2. Redux-
 3. Material UI-
+
+* Jira used for issues and commits.
