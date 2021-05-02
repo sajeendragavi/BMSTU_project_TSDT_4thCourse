@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    max-width: sm;
+    min-width: 500px;
+    width: 100%;
+    padding-left: 100px;
+}
+
+/* .box{
+    border-radius: 7px;
+    box-shadow: 1px 1px 4px rgba(0,0,0,0.2);
+    padding-left:200px;
+    margin-top: 50px;
+    height: 400px;
+} */
